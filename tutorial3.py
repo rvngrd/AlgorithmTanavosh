@@ -1,6 +1,6 @@
 """
 1:How to import modules
-1:Using random module
+2:Using random module
 """
 # if u import math directly, u have to use its functions like this => math.func_name()
 # if u use from math import *, u can use math functions without math.
